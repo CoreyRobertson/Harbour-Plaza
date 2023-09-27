@@ -23,8 +23,8 @@ const Points = () => {
                     setting your business apart from the competition.</p>
             </div>
             <div className='point_card'>
-                <h2>Moder Infrastructure & Amenities</h2>
-                <p>BEach premises is equipped with new state of the art Daikin Reverse Cycle Air
+                <h2>Modern Infrastructure & Amenities</h2>
+                <p>Each premises is equipped with new state of the art Daikin Reverse Cycle Air
                     Conditioning, NBN, gas, and grease trap connections, new shopfronts, roof,
                     fascia’s, eaves and common walkways have new tiles. These improvements
                     combine to ensure a fresh, contemporary and inviting ambiance for customers.</p>
