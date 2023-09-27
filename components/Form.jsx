@@ -10,9 +10,9 @@ const Form = () => {
 
                 <input name='phone' type='text' placeholder='Your Phone Number'></input>
                 <input name='email' type='email' placeholder='Your Email'></input>
-                <input name='email' type='email' placeholder='Your Proposed Business'></input>
-                <input name='email' type='email' placeholder='Premises Size Requirement (m2)'></input>
-                <input name='email' type='email' placeholder='Message/Preferred Inspection Time'></input>
+                <input name='text' type='text' placeholder='Your Proposed Business'></input>
+                <input name='text' type='text' placeholder='Premises Size Requirement (m2)'></input>
+                <input name='text' type='text' placeholder='Message/Preferred Inspection Time'></input>
 
                 <button type='submit'>SUBMIT</button>
 
