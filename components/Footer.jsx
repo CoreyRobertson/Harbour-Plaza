@@ -13,11 +13,11 @@ const Footer = () => {
                 <p><AiOutlineMail /> davetaranto@optusnet.com.au</p>
             </div>
             <div className='footer_bottom-container'>
-                <div className='footer_bottom-icons'>
+                {/* <div className='footer_bottom-icons'>
                     <AiFillFacebook className='footer_icon' />
                     <AiFillInstagram className='footer_icon' />
                     <AiFillYoutube className='footer_icon' />
-                </div>
+                </div> */}
             </div>
             <p className='copy'>&copy; {currentYear} Taranto Property. All Rights Reserved.</p>
         </footer>
