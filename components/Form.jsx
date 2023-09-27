@@ -7,12 +7,11 @@ const Form = () => {
             <form action="https://formsubmit.co/davetaranto@optusnet.com.au" method="POST">
 
                 <input name='name' type='text' placeholder='Your Name'></input>
-
                 <input name='phone' type='text' placeholder='Your Phone Number'></input>
                 <input name='email' type='email' placeholder='Your Email'></input>
-                <input name='text' type='text' placeholder='Your Proposed Business'></input>
-                <input name='text' type='text' placeholder='Premises Size Requirement (m2)'></input>
-                <input name='text' type='text' placeholder='Message/Preferred Inspection Time'></input>
+                <input name='Business' type='text' placeholder='Your Proposed Business'></input>
+                <input name='Size' type='text' placeholder='Premises Size Requirement (m2)'></input>
+                <input name='Time' type='text' placeholder='Message/Preferred Inspection Time'></input>
 
                 <button type='submit'>SUBMIT</button>
 

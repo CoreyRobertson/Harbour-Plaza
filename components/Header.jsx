@@ -10,7 +10,10 @@ const Header = () => {
                     <Image src='/images/shops.jpg' alt='Shops' height={600} width={800} quality={40} layout='responsive' />
                 </div>
             </div>
-            <button type='button'>Enquire Now</button>
+            <a href="mailto:davetaranto@optusnet.com.au?subject=Harbour Plaza Enquiry">
+                <button type='button'>Enquire Now</button>
+            </a>
+
         </section>
     )
 }

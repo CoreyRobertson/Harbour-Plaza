@@ -15,6 +15,10 @@ body {
   margin: 0;
 }
 
+a {
+  text-decoration: none !important;
+}
+
 .heading_container {
   display: flex;
   justify-content: center;

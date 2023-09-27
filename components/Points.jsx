@@ -13,10 +13,10 @@ const Points = () => {
             <div className='point_card'>
                 <h2>High-profile Neighbours</h2>
                 <p>Benefit from an exclusive location anchored by renowned establishments such
-                    Woolworths, Coles, Patterson Lakes Community Centre and Library.</p>
+                    as Woolworths, Coles, Patterson Lakes Community Centre and Library.</p>
             </div>
             <div className='point_card'>
-                <h2>Unique Accessability</h2>
+                <h2>Unique Accessibility</h2>
                 <p>Boasting an unmatched view of the Inner Harbour and surrounded by a high
                     density residential catchment, this location also offers the added benefit of
                     direct boating access from the public jetty along Harbour Plaza’s waterfront,
