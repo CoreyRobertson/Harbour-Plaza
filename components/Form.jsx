@@ -4,7 +4,7 @@ const Form = () => {
     return (
         <section className='form_container'>
             <h2>MAKE AN ENQUIRY OR BOOK AN INSPECTION</h2>
-            <form action="https://formsubmit.co/davidtaranto2023@gmail.com" method="POST">
+            <form action="https://formsubmit.co/tarantoproperty@gmail.com" method="POST">
 
                 <input name='name' type='text' placeholder='Your Name'></input>
                 <input name='phone' type='text' placeholder='Your Phone Number'></input>

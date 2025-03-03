@@ -3,7 +3,7 @@ import React from 'react'
 const BrochureButton = () => {
     return (
         <div className='brochure_button'>
-            <a href='/images/2HPAPR2024.pdf' download>
+            <a href='/images/Harbour Plaza Leasing.pdf' download>
                 <button type='button'>DOWNLOAD BROCHURE & PLANS</button>
             </a>
         </div>

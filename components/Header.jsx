@@ -10,7 +10,7 @@ const Header = () => {
                     <Image src='/images/shops.jpg' alt='Shops' height={600} width={800} quality={40} layout='responsive' />
                 </div>
             </div>
-            <a href="mailto:davidtaranto2023@gmail.com?subject=Harbour Plaza Enquiry">
+            <a href="mailto:tarantoproperty@gmail.com?subject=Harbour Plaza Enquiry">
                 <button type='button'>Enquire Now</button>
             </a>
 

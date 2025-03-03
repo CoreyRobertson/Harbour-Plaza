@@ -10,7 +10,7 @@ const Footer = () => {
             <div className='footer_content-container'>
                 <p>David Taranto</p>
                 <p><AiOutlinePhone /> 0412 557 711 </p>
-                <p><AiOutlineMail /> davidtaranto2023@gmail.com</p>
+                <p><AiOutlineMail /> tarantoproperty@gmail.com</p>
             </div>
             <div className='footer_bottom-container'>
                 {/* <div className='footer_bottom-icons'>
